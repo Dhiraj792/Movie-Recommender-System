@@ -49,18 +49,26 @@ Movie-Recommender-System/
 ```
 ⚙️ Installation & Setup
 1. Clone Repository
+```text
 git clone https://github.com/yourusername/movie-recommender-system.git
 cd movie-recommender-system
+```
 
-2. Create Virtual Environment (Optional)
+3. Create Virtual Environment (Optional)
+```text
 python -m venv venv
 venv\Scripts\activate
+```
 
-3. Install Dependencies
+5. Install Dependencies
+```text
 pip install -r requirements.txt
+```
 
-4. Run Application
+7. Run Application
+```text
 streamlit run app.py
+```
 
 ▶️ Usage
 

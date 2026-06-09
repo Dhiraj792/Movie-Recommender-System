@@ -1,7 +1,6 @@
 🎬 Movie Recommender System
 
 A Movie Recommender System built using Python and Streamlit that suggests movies similar to the one selected by the user. The system uses a similarity model to recommend movies and fetches posters using the TMDB API.
-
 📌 Project Overview
 
 This project recommends movies based on similarity between movies. When a user selects a movie, the system suggests 5 similar movies along with their posters.
